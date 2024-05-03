@@ -40,7 +40,7 @@ For more information, please see the ${licenseLink}.
   return licensesection
   } else
   return ''
-}
+};
 
 
 // TODO: Create a function to generate markdown for README
